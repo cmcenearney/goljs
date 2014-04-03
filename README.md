@@ -1,4 +1,6 @@
-goljs
-=====
+Game of Life in javascript
+=========================
 
-Game of Life in js
+Trying to learn how to write clean js.
+
+To run tests open SpecRunner.html in a browser
